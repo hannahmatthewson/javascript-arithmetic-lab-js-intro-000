@@ -44,13 +44,13 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  var n = '10';
+  var n = 10;
   var parsed = parseInt('n', 0);
   return parsed;
 }
 
 function preserveDecimal(n) {
-  var n = '20.12345';
+  var n = 20.12345;
   var parsedDecimal = parseFloat('n');
   return parsedDecimal;
 }
