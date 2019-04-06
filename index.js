@@ -6,15 +6,15 @@ function add(a,b) {
   var b = 3;
 }
 
-function subtract() {
-  return a - b;
+function subtract(a,b) {
+  return b - a;
 
-  var a = 10;
-  var b = 5;
+  var a = 3;
+  var b = 10;
 }
 
 
-function multiply() {
+function multiply(a,b) {
   return a * b;
 
   var a = 4;
@@ -22,7 +22,7 @@ function multiply() {
 }
 
 
-function divide() {
+function divide(a,b) {
   return a / b;
 
   var a = 20;
