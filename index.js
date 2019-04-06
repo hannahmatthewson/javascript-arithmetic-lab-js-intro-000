@@ -29,13 +29,24 @@ function divide(a,b) {
   var b = 2;
 }
 
+n = 10;
+
 function inc(n) {
-  var n = 10;
-  n += 5;
+  n++;
   return n;
 }
 
+n = 10;
+
 function dec(n) {
-  var n = 100;
-  return n -= 20;
+  n--;
+  return n;
+}
+
+function makeInt(n) {
+  return parseInt('5', 10);
+}
+
+function preserveDecimal(n) {
+  return parseFloat('50.12345');
 }
