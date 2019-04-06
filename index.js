@@ -29,14 +29,10 @@ function divide(a,b) {
   var b = 2;
 }
 
-n = 10;
-
 function inc(n) {
   n++;
   return n;
 }
-
-n = 10;
 
 function dec(n) {
   n--;
