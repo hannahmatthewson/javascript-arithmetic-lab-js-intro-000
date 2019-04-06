@@ -7,10 +7,10 @@ function add(a,b) {
 }
 
 function subtract(a,b) {
-  return b - a;
+  return a - b;
 
-  var a = 3;
-  var b = 10;
+  var a = 10;
+  var b = 3;
 }
 
 
