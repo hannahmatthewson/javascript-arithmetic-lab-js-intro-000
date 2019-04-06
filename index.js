@@ -6,7 +6,7 @@ function add(a,b) {
   var b = 3;
 }
 
-function subtract(a,b) {
+function subtract(a, b) {
   return a - b;
 
   var a = 10;
