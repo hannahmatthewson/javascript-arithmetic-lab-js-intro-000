@@ -6,11 +6,11 @@ function add(a,b) {
   var b = 3;
 }
 
-function subtract(a, b) {
+function subtract(b, a) {
   return a - b;
 
-  var a = 10;
-  var b = 3;
+  var a = 60;
+  var b =40;
 }
 
 
