@@ -44,8 +44,8 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  var n = parseInt('5', 0);
-  return n;
+  var parsed = parseInt('n', 0);
+  return parsed;
 }
 
 function preserveDecimal(n) {
