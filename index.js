@@ -32,17 +32,25 @@ function divide(a,b) {
 function inc(n) {
   var n = 10;
   n += 5;
+
+  return n;
 }
 
 function dec(n) {
   var n = 100;
   n -= 20;
+
+  return n;
 }
 
 function makeInt(n) {
   parseInt('5', 10);
+
+  return n;
 }
 
 function preserveDecimal(n) {
   parseFloat('50.12345');
+
+  return n;
 }
