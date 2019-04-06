@@ -49,7 +49,6 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  var n = 20.12345;
-  var parsedDecimal = parseFloat('n');
-  return parsedDecimal;
+  var n = parseFloat('20.12345');
+  return n;
 }
