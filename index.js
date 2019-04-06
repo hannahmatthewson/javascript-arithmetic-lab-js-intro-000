@@ -38,11 +38,3 @@ function dec(n) {
   var n = 100;
   return n -= 20;
 }
-
-function makeInt(n) {
-  return n = parseInt('5', 10);
-}
-
-function preserveDecimal(n) {
-  return n = parseFloat('50.12345');
-}
