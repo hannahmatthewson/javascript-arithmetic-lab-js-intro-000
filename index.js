@@ -11,7 +11,7 @@ function subtract() {
 }
 
 
-function multiply()) {
+function multiply() {
 
 }
 
