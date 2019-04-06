@@ -44,11 +44,9 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  var n = parseInt('2', 10)
-    return n;
+  return parseInt('n', 10)
 }
 
 function preserveDecimal(n) {
-  var n = parseFloat('20.12345');
-  return n;
+  return parseFloat('n');
 }
